@@ -2,6 +2,7 @@ AUTO-AWVS
 一个实现AWVS批量扫描的工具，也可以和X_RAY联动，美妙的自动挖洞工具。
 
 使用方法：
+
 1.将global_setting里关于awvs的apikey、cookie、url替换成自己的
 2.将收集到的url格式和test.txt一样
 3.参数：
