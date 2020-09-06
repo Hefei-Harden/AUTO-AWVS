@@ -1,0 +1,6 @@
+requests
+json
+urllib3
+pandas
+argparse
+signal
